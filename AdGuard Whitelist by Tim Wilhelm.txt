@@ -1,7 +1,7 @@
 ! Title: Whitelist by Tim Wilhelm
 ! Expires: 1 day (update frequency)
 ! Description: Whitelist needed for various services
-! Homepage: 
+! Homepage: https://github.com/YourLocalNeighborhoodScriptingNerd/RepoPublic/tree/main
 ! Last modified: 15/08/23
 ! Version: 0.0.1
 
