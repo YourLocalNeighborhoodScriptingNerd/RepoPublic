@@ -2,7 +2,7 @@
 ! Expires: 1 day (update frequency)
 ! Description: Whitelist needed for various services
 ! Homepage: 
-! Last modified: 13/08/23
+! Last modified: 15/08/23
 ! Version: 0.0.1
 
 ! General
