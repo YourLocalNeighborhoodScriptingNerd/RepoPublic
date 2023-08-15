@@ -1,11 +1,11 @@
-# Title: Whitelist by Tim Wilhelm
-# Expires: 1 day (update frequency)
-# Description: Whitelist needed for various services
-# Homepage: 
-# Last modified: 13/08/23
-# Version: 0.0.1
+! Title: Whitelist by Tim Wilhelm
+! Expires: 1 day (update frequency)
+! Description: Whitelist needed for various services
+! Homepage: 
+! Last modified: 13/08/23
+! Version: 0.0.1
 
-# General
+! General
 
-@@||adtidy.org^ #AdGuard Website
+@@||adtidy.org^ # AdGuard Website
 @@||tracker.scoober.com^$app=com.yopeso.lieferando # Lieferando Food Tracker
